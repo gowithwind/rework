@@ -35,29 +35,49 @@ For example, a social network for pet owners. It doesn't sound obviously mistake
 
 The danger of an idea like this is that when you run it by your friends with pets, they don't say "I would never use this." They say "Yeah, maybe I could see using something like that." Even when the startup launches, it will sound plausible to a lot of people. They don't want to use it themselves, at least not right now, but they could imagine other people wanting it. Sum that reaction across the entire population, and you have zero users. [2]
 
-这个点子的危险之处，你的有宠物的朋友不会说，不会使用，而是可能会尝试。甚至启动后，也感觉到会有很多的用户。他们不会自己去用，至少不是现在。
+这个点子的危险之处，你的有宠物的朋友不会说，不会去使用，而是可能会尝试。甚至启动后，也感觉到会有很多的用户。他们不会自己去用，至少不是现在，但是他们会想到其他人会用。总数加起来，你有零蛋用户。
 
-Well
+
+
+#Well井
 
 When a startup launches, there have to be at least some users who really need what they're making—not just people who could see themselves using it one day, but who want it urgently. Usually this initial group of users is small, for the simple reason that if there were something that large numbers of people urgently needed and that could be built with the amount of effort a startup usually puts into a version one, it would probably already exist. Which means you have to compromise on one dimension: you can either build something a large number of people want a small amount, or something a small number of people want a large amount. Choose the latter. Not all ideas of that type are good startup ideas, but nearly all good startup ideas are of that type.
 
+但一个项目启动，至少会有一些用户真正的需要，而不是有一天会使用，并不迫切。通常种子用户群体很小，理由很简单，如果有大量的人迫切需要，并且值得大量努力去实现，很可能已经存在了。这意味着你要注意：很多人可能需要，但实质很少，很少人现在，实质上会有很多。应该选择后者。并非所有那种类型的点子都是好的，但是好的基本都那样。
+
 Imagine a graph whose x axis represents all the people who might want what you're making and whose y axis represents how much they want it. If you invert the scale on the y axis, you can envision companies as holes. Google is an immense crater: hundreds of millions of people use it, and they need it a lot. A startup just starting out can't expect to excavate that much volume. So you have two choices about the shape of hole you start with. You can either dig a hole that's broad but shallow, or one that's narrow and deep, like a well.
+
+想象一张图，x轴代表所有需要的人，y轴代表需要的程度。如果你看Y轴的值，你可以想象公司就像洞。google是个巨大的陨石坑，大量的用户，很强的需求。一个初创公司不能期望多大的体积。你有两个选择，挖一个宽而浅的大坑，另一个是狭窄而深的井。
 
 Made-up startup ideas are usually of the first type. Lots of people are mildly interested in a social network for pet owners.
 
+虚构的点子通常是第一种类型。很多人对宠物社交网狂热地感兴趣。
+
 Nearly all good startup ideas are of the second type. Microsoft was a well when they made Altair Basic. There were only a couple thousand Altair owners, but without this software they were programming in machine language. Thirty years later Facebook had the same shape. Their first site was exclusively for Harvard students, of which there are only a few thousand, but those few thousand users wanted it a lot.
+
+好的创业点子都是第二种类型。微软就是一口井，当他们做altair basic的时候。只有几千个用户，但是没有这个软件，他们只能使用机器语言。三十年后的脸书有类似的形状。起初他们只面向哈佛的学生，只有几千人。
 
 When you have an idea for a startup, ask yourself: who wants this right now? Who wants this so much that they'll use it even when it's a crappy version one made by a two-person startup they've never heard of? If you can't answer that, the idea is probably bad. [3]
 
+当你有个点子的时候，问问自己，谁马上需要？谁想要它即使只是个粗糙的版本，两个你从未听说过的创业者的粗糙版本。如果你不能回答，这个点子很可能很糟糕。
+
 You don't need the narrowness of the well per se. It's depth you need; you get narrowness as a byproduct of optimizing for depth (and speed). But you almost always do get it. In practice the link between depth and narrowness is so strong that it's a good sign when you know that an idea will appeal strongly to a specific group or type of user.
+
+你不需要井的狭窄，但是深度是你需要的，你优先优化了深度而不是宽度。但是总是想得到。实践中深度和宽度间的连接很强，当你知道一个点子很符合一些人，那是一个好的信号。
 
 But while demand shaped like a well is almost a necessary condition for a good startup idea, it's not a sufficient one. If Mark Zuckerberg had built something that could only ever have appealed to Harvard students, it would not have been a good startup idea. Facebook was a good idea because it started with a small market there was a fast path out of. Colleges are similar enough that if you build a facebook that works at Harvard, it will work at any college. So you spread rapidly through all the colleges. Once you have all the college students, you get everyone else simply by letting them in.
 
+但是起于井是很必要的条件。但不是充分的。如果mark的脸书只适合哈佛的学生，那不是个好点子。脸书是个好点子，是因为有一个小市场可以快速开拓。大学是相似的，它会在其他大学也起作用。所以你可以快速传播到其他大学。
+
 Similarly for Microsoft: Basic for the Altair; Basic for other machines; other languages besides Basic; operating systems; applications; IPO.
 
-Self
+微软也类似。Basic 适合altarir，也适合其他机器，操作系统，应用程序，上市。
+
+#Self自我
 
 How do you tell whether there's a path out of an idea? How do you tell whether something is the germ of a giant company, or just a niche product? Often you can't. The founders of Airbnb didn't realize at first how big a market they were tapping. Initially they had a much narrower idea. They were going to let hosts rent out space on their floors during conventions. They didn't foresee the expansion of this idea; it forced itself upon them gradually. All they knew at first is that they were onto something. That's probably as much as Bill Gates or Mark Zuckerberg knew at first.
+
+你怎么认为会有一条路？你怎么认为会成为大公司，还是小的利基产品。通常你不能。airbnb的创始人不会意识到他们面对的市场有多大。刚开始他们的点子也很狭窄。
 
 Occasionally it's obvious from the beginning when there's a path out of the initial niche. And sometimes I can see a path that's not immediately obvious; that's one of our specialties at YC. But there are limits to how well this can be done, no matter how much experience you have. The most important thing to understand about paths out of the initial idea is the meta-fact that these are hard to see.
 
